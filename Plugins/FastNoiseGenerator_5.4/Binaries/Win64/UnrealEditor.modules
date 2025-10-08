@@ -1,0 +1,8 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"FastNoise": "UnrealEditor-FastNoise.dll",
+		"FastNoiseGenerator": "UnrealEditor-FastNoiseGenerator.dll"
+	}
+}
