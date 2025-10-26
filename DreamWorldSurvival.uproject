@@ -30,6 +30,11 @@
 		{
 			"Name": "EasyMultiSave",
 			"Enabled": true
+		},
+		{
+			"Name": "DTDataTable",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/83e9de3ee9b1405c9ff5b46952a31382"
 		}
 	]
 }
