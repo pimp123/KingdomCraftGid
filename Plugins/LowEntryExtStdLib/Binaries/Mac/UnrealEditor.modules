@@ -1,8 +1,0 @@
-{
-	"BuildId": "33043543",
-	"Modules": 
-	{
-		"LowEntryExtendedStandardLibrary": "UnrealEditor-LowEntryExtendedStandardLibrary.dylib",
-		"LowEntryExtendedStandardLibraryEditor": "UnrealEditor-LowEntryExtendedStandardLibraryEditor.dylib"
-	}
-}
